@@ -1,0 +1,64 @@
+.page {
+    background-color: #fdbf00;
+    display: flex;
+    justify-content: center;
+    align-content: flex-end;
+    margin-top: 5%;
+}
+
+.window {
+    background-image: url("./gradient.png");
+    width: 1054px;
+    height: 676px;
+    border-radius: 30px;
+    position: relative;
+       
+}
+
+.image {
+    width: 252px;
+    height: 367px;
+    border-radius: 15px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 37px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.text {
+    font-family: 'Lora', serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.promo {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: block;
+    position: absolute;
+    bottom: 57px;
+    background-color: black;
+    border-radius: 12px;
+    width: 490px;
+    height: 57px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    position: absolute;
+    left: 70px;
+    bottom: 144px;
+}
+
+

@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Nov 12, 2023',
-  name: 'Маша'
+  birthdate: 'Nov 19, 2023',
+  name: 'МАША'
 };
 
 function hideEverything() {
@@ -26,7 +26,7 @@ const second = 1000,
   hour = minute * 60,
   day = hour * 24;
 
-let countDown = new Date(`${config.birthdate} 00:04:00`).getTime();
+let countDown = new Date(`${config.birthdate} 16:48:00`).getTime();
 x = setInterval(function() {
   let now = new Date().getTime(),
     distance = countDown - now;
