@@ -20,7 +20,7 @@
     height: 367px;
     border-radius: 15px;
 }
-
+/* переделать на адаптив  */
 .card {
     display: flex;
     justify-content: space-evenly;
