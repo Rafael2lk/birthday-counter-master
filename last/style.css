@@ -30,7 +30,7 @@
 }
 
 .text {
-    font-family: 'Lora', serif;
+    font-family: 'Lora', monospace,  sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
