@@ -55,6 +55,12 @@ p {
     align-items: center;
 }
 
+h1 {
+    position: absolute;
+    left: 70px;
+    bottom: 144px;
+}
+
 
 
 
