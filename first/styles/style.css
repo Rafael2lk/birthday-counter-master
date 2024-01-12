@@ -180,7 +180,7 @@ li span {
       opacity: 0;
  }
 }
-
+/* TODO: сделать по другому  */
 .link {
   display: flex;
   width: 100%;
